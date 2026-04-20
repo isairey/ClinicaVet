@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="Reniec.asmx.vb" Class="WSReniec.Reniec" %>

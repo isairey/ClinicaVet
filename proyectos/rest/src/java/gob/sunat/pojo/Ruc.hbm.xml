@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 06-abr-2013 1:28:45 by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+    <class name="gob.sunat.pojo.Ruc" table="ruc" catalog="rest" dynamic-update="true">
+        <id name="idRuc" type="java.lang.Integer">
+            <column name="id_ruc" />
+            <generator class="identity" />
+        </id>
+        <property name="ruc" type="string">
+            <column name="ruc" length="12" not-null="true" />
+        </property>
+        <property name="nombre" type="string">
+            <column name="nombre" not-null="true" />
+        </property>
+        <property name="dni" type="string">
+            <column name="dni" length="8" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

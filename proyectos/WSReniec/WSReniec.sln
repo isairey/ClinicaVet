@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WSReniec", "WSReniec\", "{B0407C84-28FB-4486-BAD5-EBC4B47B6F05}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WSReniec"
+		Debug.AspNetCompiler.PhysicalPath = "D:\UPC\2013_00\Modulo II\DSD\My Project\veterinaria\proyectos\WSReniec\WSReniec\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WSReniec\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WSReniec"
+		Release.AspNetCompiler.PhysicalPath = "D:\UPC\2013_00\Modulo II\DSD\My Project\veterinaria\proyectos\WSReniec\WSReniec\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WSReniec\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "13231"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0407C84-28FB-4486-BAD5-EBC4B47B6F05}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B0407C84-28FB-4486-BAD5-EBC4B47B6F05}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
